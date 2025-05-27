@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HungOBI/nodejs-helloworld/issues"
   },
-  "homepage": "https://github.com/HungOBI/nodejs-helloworld#readme"
+  "homepage": "https://github.com/HungOBI/nodejs-helloworld#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
