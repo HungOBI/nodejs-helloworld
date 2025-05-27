@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_projects",
+  "version": "1.0.0",
+  "description": "nodejs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungOBI/nodejs-helloworld.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Hung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungOBI/nodejs-helloworld/issues"
+  },
+  "homepage": "https://github.com/HungOBI/nodejs-helloworld#readme"
+}
